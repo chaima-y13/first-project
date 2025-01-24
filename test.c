@@ -8,5 +8,6 @@ int main (){
  printf("a bon votre est %s\n",nom);
  printf("veullez saiser votre prenom\n ");
 scanf("%s",prenom);
-printf("nom: %s et prenom :%s  ",nom,prenom);
+printf("nom: %s et prenom :%s  \n",nom,prenom); 
+printf("chaimma is the best always");
 }
